@@ -92,7 +92,7 @@ class About extends Me {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=forexalaraab-design&show_icons=true&theme=tokyonight&hide_border=true&locale=ar" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forexalaraab-design&layout=compact&theme=tokyonight&hide_border=true&locale=ar" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad kreich-design&layout=compact&theme=tokyonight&hide_border=true&locale=ar" height="165" alt="Top Languages" />
 
 <br />
 
